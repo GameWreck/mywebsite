@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "class" : "pricing-item-regular",
+        "plan": "Basic Plan",
+        "price": 400, 
+        "detail1" : "Only One Person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "Single Screen",
+        "detail4" : "100% secured"
+    },
+    {
+        "id": 2,
+        "class" : "pricing-item-regular",
+        "plan": "Premium Plan",
+        "price": 650, 
+        "detail1" : "Full account with five person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "full account",
+        "detail4" : "100% secured"
+    }
+]

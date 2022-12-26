@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "class" : "pricing-item-regular",
+        "plan": "Basic Plan",
+        "price": 300, 
+        "detail1" : "Only Solo Person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "Single Screen",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/63768f775c66671af98b323c",
+        "yearly" : "Monthly",
+        "display" : "block"
+    },
+  
+    {
+        "id": 2,
+        "class" : "pricing-item-pro",
+        "plan": "Standard Plan",
+        "price": 400,
+        "detail1" : "Duo screen Two person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "Duo account",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/63768f775c66671af98b323c",
+        "display" : "none"
+    },
+      
+    {
+        "id": 3,
+        "class" : "pricing-item-regular",
+        "plan": "Premium Plan",
+        "price": 550,
+        "detail1" : "Full account Many person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "full account",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/63768f775c66671af98b323c",
+        "display" : "none"
+    },
+    {
+        "id": 4,
+        "class" : "pricing-item-regular",
+        "plan": "Basic Plan",
+        "price": 500, 
+        "detail1" : "Only Solo Person Can Use These Plan",
+        "detail2" : "3 Month Plan",
+        "detail3" : "Single Screen",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/63768fb6f72aad1caee0643d",
+        "yearly" : "3 Months",
+        "display" : "block"
+    },
+  
+    {
+        "id": 5,
+        "class" : "pricing-item-pro",
+        "plan": "Standard Plan",
+        "price": 700,
+        "detail1" : "Duo screen Two person Can Use These Plan",
+        "detail2" : "3 Month Plan",
+        "detail3" : "Duo account",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/63768fb6f72aad1caee0643d",
+        "display" : "none"
+    },
+      
+    {
+        "id": 6,
+        "class" : "pricing-item-regular",
+        "plan": "Premium Plan",
+        "price": 850,
+        "detail1" : "Full account Many person Can Use These Plan",
+        "detail2" : "3 Month Plan",
+        "detail3" : "full account",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/63768fb6f72aad1caee0643d",
+        "display" : "none"
+    },
+    {
+        "id": 7,
+        "class" : "pricing-item-regular",
+        "plan": "Basic Plan",
+        "price": 700, 
+        "detail1" : "Only Solo Person Can Use These Plan",
+        "detail2" : "6 Month Plan",
+        "detail3" : "Single Screen",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/637690420fafe318dcdc0434",
+        "yearly" : "6 Months",
+        "display" : "block"
+    },
+  
+    {
+        "id": 8,
+        "class" : "pricing-item-pro",
+        "plan": "Standard Plan",
+        "price": 1200,
+        "detail1" : "Duo screen Two person Can Use These Plan",
+        "detail2" : "6 Month Plan",
+        "detail3" : "Duo account",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/637690420fafe318dcdc0434",
+        "display" : "none"
+    },
+      
+    {
+        "id": 9,
+        "class" : "pricing-item-regular",
+        "plan": "Premium Plan",
+        "price": 1500,
+        "detail1" : "Full account Many person Can Use These Plan",
+        "detail2" : "6 Month Plan",
+        "detail3" : "full account",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/637690420fafe318dcdc0434",
+        "display" : "none"
+    }
+
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "class" : "pricing-item-regular",
+        "plan": "Basic Plan",
+        "price": 200, 
+        "detail1" : "Only One Person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "Single Screen",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/63678ef828b7337c55599fd3",
+        "display" : "none"
+    },
+  
+    {
+        "id": 2,
+        "class" : "pricing-item-regular",
+        "plan": "Premium Plan",
+        "price": 500, 
+        "detail1" : "Full account with Many person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "full account",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/63678ef828b7337c55599fd3",
+        "display" : "none"
+    },
+    {
+        "id": 3,
+        "class" : "pricing-item-regular",
+        "plan": "Basic Plan",
+        "price": 700, 
+        "detail1" : "Only One Person Can Use These Plan",
+        "detail2" : "yearly Plan",
+        "detail3" : "Single Screen",
+        "detail4" : "100% secured",
+        "display" : "block",
+        "link" : "https://surveyheart.com/form/63678ff9d40c47761c55f84d",
+        "yearly" : "Yearly"
+    },
+    {
+        "id": 4,
+        "class" : "pricing-item-regular",
+        "plan": "Premium Plan",
+        "price": 1000, 
+        "detail1" : "Full account with Many person Can Use These Plan",
+        "detail2" : "yearly Plan",
+        "detail3" : "full account",
+        "detail4" : "100% secured",
+        "link" : "https://surveyheart.com/form/63678ff9d40c47761c55f84d",
+        "display" : "none"
+    }
+
+]

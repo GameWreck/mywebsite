@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "class" : "pricing-item-regular",
+        "plan": "1K Followers Non-active",
+        "price": 850, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "High Quality Accounts",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/636b7f27b85f9f7c4686b096",
+        "yearly" : "Followers",
+        "display" : "block"
+    },
+    {
+        "id": 2,
+        "class" : "pricing-item-regular",
+        "plan": "1K Followers active",
+        "price": 1400, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "High Quality Accounts",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/636b7f27b85f9f7c4686b096",
+        "yearly" : "Followers",
+        "display" : "none"
+    },
+  
+
+    {
+        "id": 3,
+        "class" : "pricing-item-regular",
+        "plan": "1K Normal Likes",
+        "price": 500, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "High Quality Accounts",
+        "detail4" : "100% secured",
+        "display" : "block",
+        "yearly" : "Likes",
+        "link" : "https://surveyheart.com/form/636b7f70b85f9f7c4686b2fe"
+        
+    },
+    {
+        "id": 4,
+        "class" : "pricing-item-regular",
+        "plan": "1K Auto Likes",
+        "price": 650, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "High Quality Accounts",
+        "detail4" : "100% secured",
+        "display" : "none",
+        "link" : "https://surveyheart.com/form/636b7f70b85f9f7c4686b2fe"
+        
+    },
+  
+
+    {
+        "id": 5,
+        "class" : "pricing-item-regular",
+        "plan": "1K Normal views",
+        "price": 300, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "High Quality Accounts",
+        "detail4" : "100% secured",
+        "display" : "block",
+        "yearly" : "Views",
+        "link" : "https://surveyheart.com/form/636b7fc4d617737a92efa58e"
+        
+    },
+    {
+        "id": 6,
+        "class" : "pricing-item-regular",
+        "plan": "1K Auto views",
+        "price": 450, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "High Quality Accounts",
+        "detail4" : "100% secured",
+        "display" : "none",
+        "link" : "https://surveyheart.com/form/636b7fc4d617737a92efa58e"
+        
+    }
+
+    
+
+
+]

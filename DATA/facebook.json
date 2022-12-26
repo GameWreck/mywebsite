@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "class" : "pricing-item-regular",
+        "plan": "1K Followers",
+        "price": 1150, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "High Quality Accounts",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/636b7b7670f5d478fb95e826",
+        "yearly" : "Followers",
+        "display" : "block"
+    },
+  
+
+    {
+        "id": 2,
+        "class" : "pricing-item-regular",
+        "plan": "1K Likes",
+        "price": 500, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "High Quality Accounts",
+        "detail4" : "100% secured",
+        "display" : "block",
+        "yearly" : "Post Likes",
+        "link" : "https://surveyheart.com/form/636b7bb8d617737a92ef84e2"
+        
+    },
+  
+    {
+        "id": 3,
+        "class" : "pricing-item-regular",
+        "plan": "1K Views",
+        "price": 500, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "High Quality Accounts",
+        "detail4" : "100% secured",
+        "display" : "block",
+        "yearly" : "Post Views",
+        "link" : "https://surveyheart.com/form/636b7bdcd617737a92ef8650"
+        
+    }
+
+    
+
+
+]

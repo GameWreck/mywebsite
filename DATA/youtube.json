@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "class" : "pricing-item-regular",
+        "plan": "1k subscriber",
+        "price": 6000, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "Non-Drop service",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/636b771dd617737a92ef5dc5",
+        "yearly" : "Subscribers",
+        "display" : "block"
+    },
+  
+   
+    {
+        "id": 2,
+        "class" : "pricing-item-regular",
+        "plan": "1K like",
+        "price": 500, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "Non-Drop service",
+        "detail4" : "100% secured",
+        "display" : "block",
+        "yearly" : "Likes",
+        "link" : "https://surveyheart.com/form/636b7777d40c47761c6b4115"
+        
+    },
+    {
+        "id": 3,
+        "class" : "pricing-item-regular",
+        "plan": "1K Views",
+        "price": 500, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "Non-Drop service",
+        "detail4" : "100% secured",
+        "display" : "block",
+        "yearly" : "Views",
+        "link" : "https://surveyheart.com/form/636b77a7d617737a92ef6270"
+        
+    },
+    {
+        "id": 4,
+        "class" : "pricing-item-regular",
+        "plan": "1K Views (HR)",
+        "price": 700, 
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "Non-Drop service",
+        "detail4" : "100% secured",
+        "link" : "https://surveyheart.com/form/636b77a7d617737a92ef6270",
+        "display" : "none"
+    },
+    {
+        "id": 5,
+        "class" : "pricing-item-regular",
+        "plan": "1K Watch Time",
+        "price": 1850,
+        "detail1" : "Life time refill guarantee",
+        "detail2" : "Non-Drop Guarantee",
+        "detail3" : "Need 1 hour video", 
+        "detail4" : "100% secured",
+        "display" : "block",
+        "yearly" : "Watch Time (Hours)",
+        "link" : "https://surveyheart.com/form/636b78d8b85f9f7c46867bc0"
+        
+    }
+    
+]

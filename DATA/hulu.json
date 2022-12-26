@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "class" : "pricing-item-regular",
+        "plan": "Basic Plan",
+        "price": 300, 
+        "detail1" : "Only One Person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "Single Screen",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/6368160bf9a87b7622544370",
+        "yearly" : "Ads | Single Screens",
+        "display" : "block"
+    },
+  
+    {
+        "id": 2,
+        "class" : "pricing-item-regular",
+        "plan": "Premium Plan",
+        "price": 400,
+        "detail1" : "Full account with Many person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "full account",
+        "detail4" : "100% secured",
+        "link": "https://surveyheart.com/form/6368160bf9a87b7622544370",
+        "display" : "none"
+    },
+    {
+        "id": 3,
+        "class" : "pricing-item-regular",
+        "plan": "Basic Plan",
+        "price": 450, 
+        "detail1" : "Only One Person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "Single Screen",
+        "detail4" : "100% secured",
+        "display" : "block",
+        "yearly" : "Non ads | Full Account",
+        "link" : "https://surveyheart.com/form/63681641a76514790a18cc9e"
+        
+    },
+    {
+        "id": 4,
+        "class" : "pricing-item-regular",
+        "plan": "Premium Plan",
+        "price": 700, 
+        "detail1" : "Full account with Many person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "full account",
+        "detail4" : "100% secured",
+        "link" : "https://surveyheart.com/form/63681641a76514790a18cc9e",
+        "display" : "none"
+    },
+    {
+        "id": 5,
+        "class" : "pricing-item-regular",
+        "plan": "Basic Plan",
+        "price": 800, 
+        "detail1" : "Only One Person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "Single Screen",
+        "detail4" : "100% secured",
+        "display" : "block",
+        "yearly" : "Full Addons & LIVE T.V",
+        "link" : "https://surveyheart.com/form/6368172670f5d478fb835015"
+        
+    },
+    {
+        "id": 6,
+        "class" : "pricing-item-regular",
+        "plan": "Premium Plan",
+        "price": 1200, 
+        "detail1" : "Full account with Many person Can Use These Plan",
+        "detail2" : "1 Month Plan",
+        "detail3" : "full account",
+        "detail4" : "100% secured",
+        "link" : "https://surveyheart.com/form/6368172670f5d478fb835015",
+        "display" : "none"
+    }
+    
+
+
+]
